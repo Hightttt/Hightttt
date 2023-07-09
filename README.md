@@ -1,1 +1,2 @@
 - 👋 Hi, I’m lilyaan
+- 🍃 French student in computer science
